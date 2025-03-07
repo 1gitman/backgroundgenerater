@@ -4,6 +4,7 @@ import tkinter
 #this is background
 try:
     # Get the current working directory
+    #this is background
     execution_path = os.getcwd()
 
     # Initialize the ImagePrediction class
