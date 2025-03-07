@@ -1,6 +1,6 @@
 from imageai.Prediction import ImagePrediction
 import os
-
+import tkinter
 try:
     # Get the current working directory
     execution_path = os.getcwd()
